@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
