@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2544-alternating-digit-sum](https://github.com/PrudhviPrakash/Leetcode/tree/master/2544-alternating-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
