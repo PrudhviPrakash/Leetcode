@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0896-monotonic-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/PrudhviPrakash/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrudhviPrakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrudhviPrakash/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/PrudhviPrakash/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PrudhviPrakash/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0763-partition-labels](https://github.com/PrudhviPrakash/Leetcode/tree/master/0763-partition-labels) |
+| [0905-sort-array-by-parity](https://github.com/PrudhviPrakash/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
