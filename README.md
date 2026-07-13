@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrudhviPrakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/PrudhviPrakash/Leetcode/tree/master/0763-partition-labels) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrudhviPrakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0229-majority-element-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PrudhviPrakash/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PrudhviPrakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrudhviPrakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/PrudhviPrakash/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrudhviPrakash/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PrudhviPrakash/Leetcode/tree/master/0349-intersection-of-two-arrays) |
