@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrudhviPrakash/Leetcode/tree/master/0050-powx-n) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/PrudhviPrakash/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrudhviPrakash/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PrudhviPrakash/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
