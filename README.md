@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrudhviPrakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PrudhviPrakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrudhviPrakash/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/PrudhviPrakash/Leetcode/tree/master/0763-partition-labels) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrudhviPrakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrudhviPrakash/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrudhviPrakash/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
