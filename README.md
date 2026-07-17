@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PrudhviPrakash/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/PrudhviPrakash/Leetcode/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/PrudhviPrakash/Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/PrudhviPrakash/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PrudhviPrakash/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/PrudhviPrakash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrudhviPrakash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -178,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrudhviPrakash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrudhviPrakash/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrudhviPrakash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrudhviPrakash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -192,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
