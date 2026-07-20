@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PrudhviPrakash/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PrudhviPrakash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrudhviPrakash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/PrudhviPrakash/Leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PrudhviPrakash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PrudhviPrakash/Leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
@@ -203,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PrudhviPrakash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PrudhviPrakash/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
