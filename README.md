@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrudhviPrakash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PrudhviPrakash/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/PrudhviPrakash/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PrudhviPrakash/Leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/PrudhviPrakash/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PrudhviPrakash/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/PrudhviPrakash/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/PrudhviPrakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrudhviPrakash/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrudhviPrakash/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrudhviPrakash/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PrudhviPrakash/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/PrudhviPrakash/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/PrudhviPrakash/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrudhviPrakash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
