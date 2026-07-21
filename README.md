@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrudhviPrakash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PrudhviPrakash/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PrudhviPrakash/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/PrudhviPrakash/Leetcode/tree/master/0322-coin-change) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrudhviPrakash/Leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/PrudhviPrakash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PrudhviPrakash/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/PrudhviPrakash/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PrudhviPrakash/Leetcode/tree/master/0200-number-of-islands) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PrudhviPrakash/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/PrudhviPrakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
