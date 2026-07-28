@@ -3,4 +3,4 @@ class Solution:
         if n<=3:
             return True
         else:
-            return n%4!=0        
+            return n%4!=0
